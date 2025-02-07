@@ -9,4 +9,4 @@ To run:
 2. `npm start`
 3. `npm test` to run the tests in spec/RapidTestOrderSpec.js
 
-[Edit here](https://pr.new/LebLeb03/pcrtestbot.git)
+[Edit here](https://pr.new/LebLeb03/Assignment-1-UX308.git)
